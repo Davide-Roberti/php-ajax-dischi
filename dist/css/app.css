@@ -32,3 +32,33 @@ header img {
 
 /* main */
 
+main .album-box {
+  padding-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+main .album-box .card-album {
+  text-align: center;
+  background-color: black;
+  border-radius: 5px;
+  color: white;
+  margin: 10px;
+  padding: 20px;
+  width: 240px;
+}
+
+main .album-box .card-album p {
+  font-size: 15px;
+}
+
+main .album-box .card-album h5 {
+  margin: 5px 0;
+  font-size: 15px;
+}
+
+main .album-box .card-album img {
+  width: 190px;
+}
+

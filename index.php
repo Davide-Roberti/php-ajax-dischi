@@ -14,17 +14,21 @@
             </div>
         </header>
         <main>
+            <div class="container">
+                <div class="album-box">
 
+                </div>
+            </div>
         </main>
 
         <script id="card-template" type="text/x-handlebars-template">
-            <div class="card-album" data-genere="{{genereAlbum}}">
+            <div class="card-album">
                 <img src="{{coverAlbum}}" alt="cover">
-                <p>{{titoloAlbum}}</p>
-                <span>{{autoreAlbum}}</span>
-                <span>{{annoAlbum}}</span>
+                <h5>{{titoloAlbum}}</h5>
+                <p>{{autoreAlbum}}</p>
+                <p>{{annoAlbum}}</p>
             </div>
         </script>
-        <script src="dist/js/main.js" charset="utf-8"></script>
+        <script src="js/main.js" charset="utf-8"></script>
     </body>
 </html>

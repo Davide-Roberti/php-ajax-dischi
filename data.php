@@ -32,7 +32,7 @@
             'anno' => "1971"
         ],
         [
-            'cover' => "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.discogs.com%2F_IfB7qw3WuzNSgJYEmIsOBtLX4o%3D%2Ffit-in%2F600x600%2Ffilters%3Astrip_icc()%3Aformat(jpeg)%3Amode_rgb()%3Aquality(90)%2Fdiscogs-images%2FR-1125326-1194147866.jpeg.jpg&f=1&nofb=1",
+            'cover' => "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fd%2Fda%2FProcol_Harum.png&f=1&nofb=1",
             'titolo' => "Procol Harum",
             'artista' => "Procol Harum",
             'anno' => "1967"
